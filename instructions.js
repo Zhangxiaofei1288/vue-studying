@@ -13,4 +13,5 @@
     //git commit -m ""
     //github use personal access token not username and pwd from 2021
     //add token to .git/config
+    //git push -u origin branch-name
 </script>
